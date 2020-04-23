@@ -1,0 +1,18 @@
+﻿  hidapi1.cpp
+hidapi1.obj : error LNK2001: unresolved external symbol hid_close
+hidapi1.obj : error LNK2001: unresolved external symbol hid_write
+hidapi1.obj : error LNK2001: unresolved external symbol hid_get_indexed_string
+hidapi1.obj : error LNK2001: unresolved external symbol hid_get_manufacturer_string
+hidapi1.obj : error LNK2001: unresolved external symbol hid_enumerate
+hidapi1.obj : error LNK2001: unresolved external symbol hid_get_feature_report
+hidapi1.obj : error LNK2001: unresolved external symbol hid_read
+hidapi1.obj : error LNK2001: unresolved external symbol hid_error
+hidapi1.obj : error LNK2001: unresolved external symbol hid_get_serial_number_string
+hidapi1.obj : error LNK2001: unresolved external symbol hid_get_product_string
+hidapi1.obj : error LNK2001: unresolved external symbol hid_send_feature_report
+hidapi1.obj : error LNK2001: unresolved external symbol hid_init
+hidapi1.obj : error LNK2001: unresolved external symbol hid_set_nonblocking
+hidapi1.obj : error LNK2001: unresolved external symbol hid_free_enumeration
+hidapi1.obj : error LNK2001: unresolved external symbol hid_open
+hidapi1.obj : error LNK2001: unresolved external symbol hid_exit
+C:\git\programming\visualStudio\hidapi1\hidapi1\x64\Release\hidapi1.exe : fatal error LNK1120: 16 unresolved externals

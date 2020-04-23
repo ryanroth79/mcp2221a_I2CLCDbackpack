@@ -1,0 +1,9 @@
+﻿  hidapi1.cpp
+C:\git\programming\visualStudio\hidapi1\hidapi1\hidapi1.cpp(88,14): warning C4309: 'argument': truncation of constant value
+C:\git\programming\visualStudio\hidapi1\hidapi1\hidapi1.cpp(89,14): warning C4309: 'argument': truncation of constant value
+C:\git\programming\visualStudio\hidapi1\hidapi1\hidapi1.cpp(27,16): warning C4101: 'buf': unreferenced local variable
+C:\git\programming\visualStudio\hidapi1\hidapi1\hidapi1.cpp(32,7): warning C4101: 'c': unreferenced local variable
+C:\git\programming\visualStudio\hidapi1\hidapi1\hidapi1.cpp(31,6): warning C4101: 'i': unreferenced local variable
+C:\git\programming\visualStudio\hidapi1\hidapi1\hidapi1.cpp(99,6): warning C4101: 'q': unreferenced local variable
+C:\git\programming\visualStudio\hidapi1\hidapi1\hidapi1.cpp(99,9): warning C4101: 'i': unreferenced local variable
+  hidapi1.vcxproj -> C:\git\programming\visualStudio\hidapi1\hidapi1\x64\Debug\hidapi1.exe

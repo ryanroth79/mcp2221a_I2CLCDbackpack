@@ -1,0 +1,2 @@
+C:\git\programming\visualStudio\hidapi1\hidapi1\x64\Debug\hidapi1.exe
+C:\git\programming\visualStudio\hidapi1\hidapi1\x64\Debug\hidapi1.pdb
